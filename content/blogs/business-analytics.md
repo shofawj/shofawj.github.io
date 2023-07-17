@@ -6,7 +6,6 @@ author: "Shofa Jannah"
 tags:
   - Business Analytics
   - Data Science
-  - example
 image: /images/post.jpg
 description: ""
 toc: 
