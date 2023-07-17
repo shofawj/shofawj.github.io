@@ -5,10 +5,45 @@ draft: false
 description: "My gallery :earth_asia: and my art :art:"
 layout: "gallery"
 images:
- - src: 
- - src: https://img.etimg.com/thumb/msid-68721417,width-650,imgsize-1016106,,resizemode-4,quality-100/nature1_gettyimages.jpg
- - src: https://thumbs.dreamstime.com/b/team-ants-council-collective-decision-work-17037482.jpg
- - src: https://thumbs.dreamstime.com/b/summer-day-smiling-women-relax-wearing-red-dress-fashion-standing-wooden-bridge-over-sea-blue-sky-background-summer-107411998.jpg
- - src: https://thumbs.dreamstime.com/b/young-woman-playing-dog-pet-beach-sunrise-sunset-girl-dog-having-fun-seasid-seaside-cute-neglected-stay-66480218.jpg
- - src: https://thumbs.dreamstime.com/b/funny-picture-taken-sunrise-frozen-lake-perspective-rider-retro-bicycle-sunrise-personal-211066044.jpg 
+ - src: /penup/16.jpg
+ - src: /penup/17.jpg
+ - src: /penup/18.jpg
+ - src: /penup/19.jpg
+ - src: /penup/20.jpg
+ - src: /penup/21.jpg
+ - src: /penup/22.jpg
+ - src: /penup/23.jpg
+ - src: /penup/24.jpg
+ - src: /penup/25.jpg
+ - src: /penup/26.jpg
+ - src: /penup/27.jpg
+ 
+ - src: /penup/29.jpg
+ - src: /penup/28.jpg
+ - src: /penup/30.jpg
+ - src: /penup/6.png
+ - src: /penup/33.jpg
+ - src: /penup/34.jpg
+ - src: /penup/32.jpg
+ 
+ - src: /penup/10.png
+ 
+ - src: /penup/12.png
+ - src: /penup/13.png
+ - src: /penup/7.png
+ 
+ - src: /penup/3.png
+ - src: /penup/4.png
+ - src: /penup/11.png
+ - src: /penup/2.png
+ - src: /penup/5.png
+ 
+ - src: /penup/9.png
+ - src: /penup/15.png
+ - src: /penup/14.png
+ - src: /penup/8.png
+ - src: /penup/1.png
+ 
+
+
 ---
