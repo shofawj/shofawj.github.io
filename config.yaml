@@ -1,4 +1,4 @@
-baseURL: "shofawj.github.io"
+baseURL: ""
 languageCode: "en-us"
 title: "Shofa Jannah"
 theme: hugo-profile
@@ -285,7 +285,7 @@ params:
         content: Developed a product using Artificial Intelligence.
       - title: ....
         content: Developed a product using Artificial Intelligence.
-        url: "https://github.com/gurusabarish/hugo-profile"
+        url: "https://example.com"
       - title: ....
         content: Developed a product using Artificial Intelligence.
       - title: Google Summer of Code
@@ -302,7 +302,7 @@ params:
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://example.com
         badges:
           - "Hugo"
           - "Bootstrap"
@@ -311,22 +311,22 @@ params:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
+            url: https://example.com
           - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://example.com
 
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
         image: /images/projects/converter.jpg
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: https://example.com
         badges:
           - "Django"
           - "Bootstrap"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://example.com
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.
