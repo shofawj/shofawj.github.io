@@ -218,7 +218,7 @@ params:
       - job: "IT Intern (Frontend Developer)"
         company: "PT Sarana Mendulang Arta"
         companyUrl: "https://ptmmf.co.id/"
-        date: "June 2017 - Nov 2019"
+        date: "Jan 2020 - Mar 2020"
         featuredLink:
           enable: true
           url: "https://ptmmf.co.id/"
@@ -284,7 +284,7 @@ params:
         url: "https://example.com"
       - title: ....
         content: COOMING SOON
-      - title: Google Summer of Code
+      - title: ....
         content: COOMING SOON
         url: https://example.com
 
