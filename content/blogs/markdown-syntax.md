@@ -7,7 +7,6 @@ author: "Gurusabarish"
 tags:
   - Markdown syntax
   - Sample
-  - example
 image: /images/post.jpg
 description: ""
 toc:
