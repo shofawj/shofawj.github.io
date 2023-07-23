@@ -37,17 +37,13 @@ Now it's time to actually create the visualizations. We may need to experiment w
 
 There are various tools we can use for data visualization
 
-1. Spreadsheets (Microsoft Excel or Google Sheets): Spreadsheets are great for simple visuals like bar graphs and pie charts, and they offer some advanced options like maps, waterfall, and funnel diagrams.
+- Spreadsheets (Microsoft Excel or Google Sheets): Spreadsheets are great for simple visuals like bar graphs and pie charts, and they offer some advanced options like maps, waterfall, and funnel diagrams.
 
-2. Visualization Software (Tableau): Tableau is a powerful tool that turns data into compelling visuals and insights. It allows for interactive dashboards and is useful for analyzing and sharing data.
+- Visualization Software (Tableau): Tableau is a powerful tool that turns data into compelling visuals and insights. It allows for interactive dashboards and is useful for analyzing and sharing data.
 
-![data](/blogs/DV-tableau.png)
-
-3. Programming Language (R with RStudio): R is used by many data analysts, and RStudio is a popular integrated development environment (IDE) for data visualization.
-
-![data](/blogs/Dv-RStudio.png)
+- Programming Language (R with RStudio): R is used by many data analysts, and RStudio is a popular integrated development environment (IDE) for data visualization.
 
 Remember to choose the tool that best fits our data and analysis needs.
 
-In conclusion, data visualization is a crucial part of being a data analyst. It helps us communicate our findings effectively and engage our audience with insightful visuals. Whether we use spreadsheets, visualization software like Tableau, or programming languages like R with RStudio, the right tool will make our data come to life. Happy visualizing!"
+In conclusion, data visualization is a crucial part of being a data analyst. It helps us communicate our findings effectively and engage our audience with insightful visuals. Whether we use spreadsheets, visualization software like Tableau, or programming languages like R with RStudio, the right tool will make our data come to life. Happy visualizing!😊🫰
 
