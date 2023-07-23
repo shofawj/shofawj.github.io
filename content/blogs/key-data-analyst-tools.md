@@ -8,7 +8,7 @@ tags:
   - Data Tools
   - Excel
   - Spreadsheet
-image: /images/post.jpg
+image: /blogs/Key-Data.jpg
 description: ""
 toc: 
 ---
