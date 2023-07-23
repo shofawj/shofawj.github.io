@@ -9,7 +9,7 @@ tags:
   - Tableau
   - Spreadsheet
   - RStudio
-image: /blogs/DV1.jpg
+image: /blogs/DV1.png
 description: ""
 toc: 
 ---
@@ -18,7 +18,7 @@ toc:
 
 Data visualization is about presenting information through graphs and visuals. As a data analyst, the main tast is to create visualizations that are easy to understand and visually appealing. Most data analytics tools, like spreadsheets and databases, have built-in visualization features. There are also specialized tools like Tableau that focus on visualization as their main feature. Soo we'll explore the steps involved in the data visualization process and some popular visualization tools here 🫰.
 
-### Steps to Plan a Data Visualization:
+### Steps to Plan a Data Visualization
 
 Let's go through an example of a real-life situation where a data analyst needs to create a data visualization to share with stakeholders. Imagine we're a data analyst for a clothing distributor, and our company is planning a major update to its website. To guide the website update decisions, we're asked to analyze data from the existing website and sales records. Here are the steps we might follow:
 
@@ -40,9 +40,11 @@ There are various tools we can use for data visualization
 1. Spreadsheets (Microsoft Excel or Google Sheets): Spreadsheets are great for simple visuals like bar graphs and pie charts, and they offer some advanced options like maps, waterfall, and funnel diagrams.
 
 2. Visualization Software (Tableau): Tableau is a powerful tool that turns data into compelling visuals and insights. It allows for interactive dashboards and is useful for analyzing and sharing data.
+
 ![data](/blogs/DV-tableau.png)
 
 3. Programming Language (R with RStudio): R is used by many data analysts, and RStudio is a popular integrated development environment (IDE) for data visualization.
+
 ![data](/blogs/Dv-RStudio.png)
 
 Remember to choose the tool that best fits our data and analysis needs.
