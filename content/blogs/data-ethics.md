@@ -27,15 +27,15 @@ While we might not be responsible for the technical aspects of data management, 
 
 ## 5 Data Ethics Principles for Business Professionals
 
-1. Ownership: <br>
+#### 1. Ownership <br>
 The first principle is about respecting people's ownership of their personal information. Just like taking someone's belongings without permission is wrong, collecting personal data without consent is unethical and illegal. Always ask for permission through agreements or privacy policies to avoid ethical and legal issues. &nbsp;
-2. Transparency: <br>
+#### 2. Transparency <br>
 Data subjects have the right to know how we collect, store, and use their information. Be transparent when gathering data and explain our methods clearly. Let users decide if they want to accept cookies or not, and avoid deceiving them about our intentions.
-3. Privacy:<br>
+#### 3. Privacy<br>
 Handling data comes with the responsibility of protecting individuals' privacy. Even with consent, it doesn't mean their data should be publicly available. Safeguard sensitive information by using secure databases, password protection, and encryption. De-identify datasets when possible to maintain anonymity.
-4. Intention:<br>
+#### 4. Intention<br>
 Intentions matter in ethics. Before collecting data, ask ourself why we need it and how it will be used. Avoid collecting unnecessary sensitive data. Strive to collect the minimum amount needed to achieve our goals, making a positive impact while respecting our subjects' privacy.
-5. Outcomes:<br>
+#### 5. Outcomes<br>
 Even with good intentions, data analysis can inadvertently harm individuals or groups, leading to disparate impacts. Disparate impacts can be unintentional biases in algorithms that disproportionately affect certain groups. Consider the potential impacts of our analysis and aim to minimize harm.
 
 By following these data ethics principles, we can conduct responsible and ethical data analysis, respecting people's privacy and rights while making informed decisions.
@@ -46,9 +46,12 @@ If we work with machine-learning algorithms, it's important to consider how they
 
 Algorithms are created by humans, so they can unintentionally have biases. Biased algorithms can harm people. Here are some ways bias can affect our algorithms:
 
-1. Training: If our algorithm is trained on data that doesn't represent the whole picture, it might favor certain outcomes over others.
-2. Code: Although bias in algorithms is usually unintentional, it's essential to be aware that it could be purposely written to produce biased results.
-3. Feedback: Algorithms learn from users' feedback. If biased feedback is given, the algorithm can become biased itself. For example, a job search platform may recommend roles based on previous choices made by hiring managers. If they consistently choose white male candidates, the algorithm will learn from that and only suggest jobs to similar candidates in the future.
+##### 1. Training
+If our algorithm is trained on data that doesn't represent the whole picture, it might favor certain outcomes over others.
+##### 2. Code
+Although bias in algorithms is usually unintentional, it's essential to be aware that it could be purposely written to produce biased results.
+##### 3. Feedback
+Algorithms learn from users' feedback. If biased feedback is given, the algorithm can become biased itself. For example, a job search platform may recommend roles based on previous choices made by hiring managers. If they consistently choose white male candidates, the algorithm will learn from that and only suggest jobs to similar candidates in the future.
 
 It's essential to strive for the best even though no algorithm is perfect. Human evaluators, representative training data, and involving diverse stakeholders can help create better algorithms for a better future.
 

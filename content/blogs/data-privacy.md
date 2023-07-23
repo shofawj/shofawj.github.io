@@ -35,16 +35,16 @@ These two concepts work hand in hand to protect our customers and their data. By
 
 ## 4 Things to Know About Data Privacy
 
-1. What is Personally Identifiable Information (PII) <br>
+#### 1. What is Personally Identifiable Information (PII) <br>
 Personally Identifiable Information (PII) is any information that can be linked to a specific person. Examples include names, addresses, phone numbers, email addresses, social security numbers, and more. It's crucial to get consent before collecting or sharing PII to protect people's privacy. To safeguard privacy, data can be de-identified by removing PII from datasets, making them safe for analysis.
-2. How to Protect Data Internally <br>
+#### 2. How to Protect Data Internally <br>
 To keep data secure within an organization, limit access to PII to those who need it. Simple steps like locking computers, filing cabinets, and using strong passwords for database access can make a big difference. Safely store physical data and avoid discussing sensitive information in public areas.
-3. Data Privacy is a Legal Responsibility <br>
+#### 3. Data Privacy is a Legal Responsibility <br>
 Data privacy laws have strict guidelines and consequences. Laws vary depending on our location and the type of data we handle. Some examples of data privacy laws include:
 - GDPR (General Data Protection Regulation): Applies to anyone handling data of Europeans, ensuring transparency, data accuracy, and confidentiality.
 - CCPA (California Consumer Privacy Act): Protects California citizens' rights to know and control personal data collected by businesses.
 - HIPAA (Health Insurance Portability and Accountability Act): Ensures medical data privacy and control for US citizens.
-4. Data Privacy is an Ethical Responsibility <br>
+#### 4. Data Privacy is an Ethical Responsibility <br>
 Data privacy is not just a legal concern, but an ethical one too. Ethical data practices respect individuals' consent and protect their sensitive information. Remember that data represents real people with identities, and using data responsibly is essential to safeguard their privacy and well-being.
 
 By understanding data privacy, we can responsibly handle data, respecting people's privacy rights and ensuring that data is used in a secure and ethical manner.
