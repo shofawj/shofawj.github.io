@@ -282,11 +282,6 @@ params:
       - title: ....
         content: COOMING SOON
         url: "https://example.com"
-      - title: ....
-        content: COOMING SOON
-      - title: ....
-        content: COOMING SOON
-        url: https://example.com
 
   # projects
   projects:

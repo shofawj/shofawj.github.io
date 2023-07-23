@@ -33,15 +33,16 @@ Now it's time to actually create the visualizations. We may need to experiment w
 
 ![data](/blogs/DV-point3.png)
 
-##### Build Data Visualization Toolkit
+## Build Data Visualization Toolkit
 
 There are various tools we can use for data visualization
 
-- Spreadsheets (Microsoft Excel or Google Sheets): Spreadsheets are great for simple visuals like bar graphs and pie charts, and they offer some advanced options like maps, waterfall, and funnel diagrams.
-
-- Visualization Software (Tableau): Tableau is a powerful tool that turns data into compelling visuals and insights. It allows for interactive dashboards and is useful for analyzing and sharing data.
-
-- Programming Language (R with RStudio): R is used by many data analysts, and RStudio is a popular integrated development environment (IDE) for data visualization.
+1. Spreadsheets (Microsoft Excel or Google Sheets) -
+Spreadsheets are great for simple visuals like bar graphs and pie charts, and they offer some advanced options like maps, waterfall, and funnel diagrams.
+2. Visualization Software (Tableau) - 
+Tableau is a powerful tool that turns data into compelling visuals and insights. It allows for interactive dashboards and is useful for analyzing and sharing data.
+3. Programming Language (R with RStudio) - 
+R is used by many data analysts, and RStudio is a popular integrated development environment (IDE) for data visualization.
 
 Remember to choose the tool that best fits our data and analysis needs.
 
