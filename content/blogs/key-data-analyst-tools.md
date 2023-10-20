@@ -1,7 +1,7 @@
 ---
 title: "Key Data Analyst Tools"
 date: 2023-07-23T09:42:02+07:00
-draft: False
+draft: true
 author: "Shofa Jannah"
 tags:
   - Data Analyst 

@@ -1,7 +1,7 @@
 ---
 title: "Planning a Data Visualization"
 date: 2023-07-23T09:51:16+07:00
-draft: False
+draft: true
 author: "Shofa Jannah"
 tags:
   - Data Visualization
