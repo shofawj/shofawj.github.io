@@ -7,7 +7,7 @@ tags:
   - Israel
   - Palestine
   - Zionist
-image: /images/pandi.jpeg
+image: /images/pandi.jpg
 description: ""
 toc: 
 ---
