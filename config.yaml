@@ -160,7 +160,7 @@ params:
         - "PHP"
         - "Laravel"
         - "R"
-        - "IBM Congo"
+        - "IBM Cognos"
 
   # Experience
   experience:
@@ -238,6 +238,7 @@ params:
           name: "Sepuluh Nopember Institute of Technology"
           url: "https://www.its.ac.id/"
         date: "2023 - 2025"
+        GPA: "3.88 out of 4.0"
         content:
       - title: "Bachelor of Science in Information Systems"
         school:
