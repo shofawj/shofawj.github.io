@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems on Shofa Jannah</title>
+    <link>http://localhost:1313/tags/systems/</link>
+    <description>Recent content in Systems on Shofa Jannah</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2024 14:13:48 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Cognitive Systems: The Brainy Tech Behind Smart Decisions</title>
+      <link>http://localhost:1313/blogs/cognitivesystem/</link>
+      <pubDate>Tue, 19 Nov 2024 14:13:48 +0700</pubDate>
+      <guid>http://localhost:1313/blogs/cognitivesystem/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hello, hello&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Have you ever wondered how Netflix seems to know what movie you’d love to watch next? Or how Google magically finishes your sentences before you even type them? That’s the magic of cognitive systems—a blend of artificial intelligence (AI), machine learning, and human-like reasoning that helps technology think, learn, and make decisions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;What Are Cognitive Systems?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Imagine if computers could think like humans—analyze, understand, and even adapt to new situations. That’s what cognitive systems do! They mimic human cognition by processing information, recognizing patterns, and making intelligent decisions. Unlike traditional rule-based systems, cognitive systems continuously improve by learning from new data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

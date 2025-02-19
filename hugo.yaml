@@ -135,7 +135,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Shofa."
-    subtitle: "Here my personal profile"
+    subtitle: "Welkom to my profil pribadi ~ 😉"
     content: "Anywaaaay you can access my blog, where I post about my personal interests [here](https://shofawj.github.io/blogs)"
     image: /images/hero.svg
     bottomImage:

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Shofa Jannah</title>
+    <link>http://localhost:1313/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Shofa Jannah</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Feb 2024 14:34:06 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unveiling the Magic of Computer Vision</title>
+      <link>http://localhost:1313/blogs/computervision/</link>
+      <pubDate>Mon, 19 Feb 2024 14:34:06 +0700</pubDate>
+      <guid>http://localhost:1313/blogs/computervision/</guid>
+      <description>&lt;p&gt;Imagine a world where machines can see and interpret the visual wonders around us, just like humans do. That&amp;rsquo;s the enchanting realm of Computer Vision! It&amp;rsquo;s a fascinating field of artificial intelligence that enables computers to understand and process visual information from the world. Let&amp;rsquo;s embark on a joyful journey to explore this captivating technology.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What is Computer Vision?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;At its core, computer vision is all about teaching machines to &amp;ldquo;see.&amp;rdquo; It involves enabling computers to interpret and make decisions based on visual inputs like images and videos. This technology mimics human vision, allowing machines to recognize objects, analyze scenes, and even detect anomalies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
