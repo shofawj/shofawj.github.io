@@ -1,0 +1,22 @@
+<div class="gallery">
+    {{ $images := readDir "static/gallery" }}
+    {{ range $images }}
+      <div class="gallery-item">
+        <img src="/gallery/{{ .Name }}" alt="{{ .Name }}">
+      </div>
+    {{ end }}
+  </div>
+  
+  <style>
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 10px;
+    }
+    .gallery-item img {
+      width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+  </style>
+  
