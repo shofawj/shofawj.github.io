@@ -6,8 +6,15 @@
     <description>Recent content on Shofa Jannah</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2025 13:28:50 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 08:27:53 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Professional Certificates</title>
+      <link>http://localhost:1313/certificates/</link>
+      <pubDate>Thu, 27 Feb 2025 08:27:53 +0700</pubDate>
+      <guid>http://localhost:1313/certificates/</guid>
+      <description>&lt;p&gt;💡 Here are some of my certifications in data analysis and machine learning.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;🎖 &lt;strong&gt;IBM Data Analyst Professional Certificate&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/specialization/certificate/KB25BVSZQG5B&#34;&gt;📜 View Certificate&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🎖 &lt;strong&gt;Google Data Analytics Professional Certificate&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/specialization/certificate/PADWP2W3XEWD&#34;&gt;📜 View Certificate&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🎖 &lt;strong&gt;Machine Learning by DeepLearning.AI&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/specialization/certificate/VTV7HG3QYH44&#34;&gt;📜 View Certificate&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;✨ Click on any certificate to view details. 🚀&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gallery</title>
       <link>http://localhost:1313/gallery/</link>

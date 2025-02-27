@@ -40,6 +40,11 @@ Menus:
       title: Blog posts
       url: /gallery
       weight: 2
+    - identifier: certificates
+      name: Certificates
+      title: Certificates
+      url: /certificates
+      weight: 3
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -133,10 +138,17 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Shofa."
-    subtitle: "Welkom to my profil pribadi ~ 😉"
-    content: "Anywaaaay you can access my blog, where I post about my personal interests [here](https://shofawj.github.io/blogs)"
+    intro: "🍀 Hii, I'm"
+    title: "Shofa! 💫"
+    subtitle: "Welkom to my profil pribadi 😉🌷"
+    content: "✨ Anywaaay, feel free to explore! ✨  <br><br>
+
+      💡 You can check out **my blog** where I share my personal interests 👉 [Click here!](https://shofawj.github.io/blogs)  <br>
+
+      📜 And you can peek at **my certificates** here 👉 [View Certificates](https://shofawj.github.io/certificates)  <br><br>
+
+      Let's connect & grow together! 🌿🚀"
+
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -356,12 +368,27 @@ params:
           - icon: fab fa-github
             url: https://github.com/shofawj
 
+  # certificates
+  certificates:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - title: IBM Data Analyst Professional Certificate
+        content: 
+        url: https://coursera.org/share/98313e8b41646df053d0ca1038b5eb18
+      - title: Google Data Analytics Professional Certificate
+        url: https://coursera.org/share/100703a7df88f9c6e81c35835a44fa6c
+      - title: Machine Learning
+        content: DeepLearning.AI, Stanford University
+        url: https://coursera.org/share/e26bd2710303c16ea13586e16b668970
 
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    #title: "🌷 Let's Connect! 💌"
+    content: "My inbox is **always open**! 💖✨<br><br>  
+      💭 Got a question? Need a chat? Or just wanna say **hiii**? 🌼💬<br><br>  
+      I’ll do my best to reply as soon as I can! ⏳💕<br><br>"
     btnName: Mail me
     btnLink: mailto:shofawj@gmail.com
     # formspree:
