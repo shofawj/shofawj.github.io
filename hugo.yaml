@@ -339,13 +339,55 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/shofawj
+      
+      - title: Sematic Similarity menggunakan Generalized Jaccard Similarity
+        content: ETS Project
+        image: /Similarity.png
+        featured:
+          name: Sematic Similarity menggunakan Generalized Jaccard Similarity
+          link: https://colab.research.google.com/drive/1Y-MNY3-bQHVRIwzhSOoxM7xcSVdZeqNe?usp=sharing
+        badges:
+          - "Similarity"
+          - "Generalized Jaccard"
+          - "Fatwa MUI"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/shofawj
+
+      - title: Visual Question Answering using Deep Learning Method
+        content: ETS Project
+        image: /VQA.png
+        featured:
+          name: Visual Question Answering using Deep Learning Method
+          link: https://colab.research.google.com/drive/1wreIiN7HgSyzUdQXKcaMMHPzLRyuaKmU?usp=sharing
+        badges:
+          - "Visual Question Answering"
+          - "Deep Learning"
+          - "Master's Project"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/shofawj
+
+      - title: Stock Forecasting using LSTM and GRU
+        content: ETS Project
+        image: /stock.png
+        featured:
+          name: Stock Forecasting using LSTM and GRU
+          link: https://github.com/shofawj/Stock-Forcasting-using-LSTM-and-GRU
+        badges:
+          - "Stock Forecasting"
+          - "Deep Learning"
+          - "Master's Project"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/shofawj
 
       - title: Dashboard for IBM Data Analyst Capstone Project
         content: Building A Dashboard With Cognos.
         image: /DashboardCognos.png
         featured:
           name: Dashboard IBM Project
-          link: https://dataplatform.cloud.ibm.com/dashboards/6f30418e-30bc-494b-b4dd-6d3abffcdf5b/view/593efa7f1deb0c954dabb5e407917f527c342d08b6bb805685d47b495e327697a8691399c87d195ddd425061f7ea160bc9
+          link: https://drive.google.com/file/d/115Xh2UAM4BxbivdKLuIq5LzBa49MP2Ri/view?usp=sharing
         badges:
           - "IBM Cognos"
           - "Data Analyst"
@@ -367,6 +409,8 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/shofawj
+      
+      
 
   # certificates
   certificates:
