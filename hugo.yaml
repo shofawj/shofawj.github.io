@@ -396,6 +396,34 @@ params:
           - icon: fab fa-github
             url: https://github.com/shofawj
 
+      - title: Dashboard for Customer Analysis
+        content: Building A Dashboard With Tableu.
+        image: /customer.png
+        featured:
+          name:  Dashboard for Customer Analysis
+          link: https://public.tableau.com/app/profile/shofa.jannah/viz/CustomerAnalysis_17409805342590/CustomerAnalysis
+        badges:
+          - "IBM Cognos"
+          - "Data Analyst"
+          - "Coursera"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/shofawj
+
+      - title: Dashboard Amazon Prime Movies
+        content: Building A Dashboard With Tableau
+        image: /prime.png
+        featured:
+          name: Dashboard Amazon Prime Movies
+          link: https://public.tableau.com/app/profile/shofa.jannah/viz/shared/9S7CQC3T3
+        badges:
+          - "IBM Cognos"
+          - "Data Analyst"
+          - "Coursera"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/shofawj
+
       - title: Final Presentation for IBM Data Analyst Capstone Project
         content: Analyze technology trend in software and web development among developers around the world
         image: /PresentationIBM.png
