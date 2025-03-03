@@ -403,9 +403,9 @@ params:
           name:  Dashboard for Customer Analysis
           link: https://public.tableau.com/app/profile/shofa.jannah/viz/CustomerAnalysis_17409805342590/CustomerAnalysis
         badges:
-          - "IBM Cognos"
+          - "Tableau"
           - "Data Analyst"
-          - "Coursera"
+          - "Project"
         links:
           - icon: fab fa-github
             url: https://github.com/shofawj
@@ -417,9 +417,9 @@ params:
           name: Dashboard Amazon Prime Movies
           link: https://public.tableau.com/app/profile/shofa.jannah/viz/shared/9S7CQC3T3
         badges:
-          - "IBM Cognos"
+          - "Tableau"
           - "Data Analyst"
-          - "Coursera"
+          - "Project"
         links:
           - icon: fab fa-github
             url: https://github.com/shofawj
