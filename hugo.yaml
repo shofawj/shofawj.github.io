@@ -424,6 +424,20 @@ params:
           - icon: fab fa-github
             url: https://github.com/shofawj
 
+      - title: Super Store Sales Dashboard
+        content: Building A Dashboard With Tableau
+        image: /sales2.png
+        featured:
+          name: Super Store Sales Dashboard
+          link: https://public.tableau.com/views/Sales_17410631100430/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+        badges:
+          - "Tableau"
+          - "Data Analyst"
+          - "Project"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/shofawj
+
       - title: Final Presentation for IBM Data Analyst Capstone Project
         content: Analyze technology trend in software and web development among developers around the world
         image: /PresentationIBM.png
