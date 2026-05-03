@@ -156,7 +156,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/CV-Shofa Jannah.pdf"
+      url: "/CV-Shofa 2026.pdf"
       download: true
       newPage: false
     socialLinks:
