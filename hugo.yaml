@@ -272,7 +272,7 @@ params:
         GPA: "3.81 out of 4.0"
         content: |-
           I have published three papers
-          - Shofa Wardatul Jannah, Visual Aspect-Based Sentiment Analysis for Tourist Reviews Using Deep Learning Method, 2024 International Conference on Information Technology Systems and Innovation (ICITSI), Bandung, Indonesia.
+          - [Shofa Wardatul Jannah, Visual Aspect-Based Sentiment Analysis for Tourist Reviews Using Deep Learning Method, 2024 International Conference on Information Technology Systems and Innovation (ICITSI), Bandung, Indonesia.](https://ieeexplore.ieee.org/document/10929387/)
           - [Shofa Wardatul Jannah, Exploring Deep Learning Architectures for Effective Visual Question Answering, 2024 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT), Sakhir, Bahrain.](https://ieeexplore.ieee.org/document/10824566)
           - [AR Hermawan, SW Jannah, Exploring Semantic Similarity among MUI Fatwas: A Computational Analysis using Generalized Jaccard Similarity, Halal Research Journal, Vol. 4, No. 2, pp. 78-88, 2024.](https://journal.its.ac.id/index.php/hr/article/view/1217)
          
