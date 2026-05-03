@@ -175,21 +175,19 @@ params:
     title: "About Me"
     image: "/WawaP.png"
     content: |-
-      I am an Information Systems graduate with a strong passion for Data and Business Intelligence. I have a solid background in data processing, analysis, and programming languages, with a deep interest in the intersection of technology and art. I recently completed my master's degree at Sepuluh Nopember Institute of Technology (ITS), building upon the foundation I established during my undergraduate studies at Universitas Dinamika.
+      I’m an Information Systems graduate with a strong interest in Data and Business Intelligence. I have hands-on experience in data processing, analysis, and programming, and I enjoy exploring how technology can connect with creativity.
       
-      During my studies, I worked on a project focused on helping people easily find information about destinations in Indonesia, combining data analysis with user-centric solutions.
+      I recently completed my master’s degree at Sepuluh Nopember Institute of Technology (ITS), after earning my bachelor’s degree from Universitas Dinamika. During my studies, I worked on a project that helped users find information about destinations in Indonesia, combining data analysis with a user-focused approach.
       
-      Now, I am actively looking for opportunities in data analysis or business analysis, where I can apply my analytical skills, contribute to data-driven decision-making, and grow professionally in a dynamic environment.
+      I’m currently looking for opportunities in data or business analysis, where I can apply my skills, contribute to data-driven decisions, and continue growing in a dynamic environment.
       
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
         - "Python"
         - "SQL"
+        - "JavaScript"
         - "Tableau"
         - "Power BI"
         - "Microsoft Excel"
@@ -205,17 +203,17 @@ params:
       - job: "IT Business Partner "
         company: "Telkomsel"
         companyUrl: "https://www.telkomsel.com/"
-        date: "May 2021 - March 2023"
+        date: "May 2021 - present"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
         content: |
-          - Led cross-functional projects bridging business and IT teams to identifying business needs.
-          - Designed an automated system using Microsoft Lists and Power Apps as a reminder and project management tool across three divisions, improving progress tracking efficiency and ensuring 80% of projects were completed on time.
+          - Collaborated with business and IT teams to identify needs and translate them into clear requirements.
+          - Developed an automated system using Microsoft Lists and Power Apps as a reminder and project management tool across three divisions, improving progress tracking efficiency and ensuring 80% of projects were completed on time.
           - Coordinated over 100 meetings, ensuring each session was properly documented with clear and comprehensive Minutes of Meeting (MoM).
-          - Monitored and reported the progress of 30+ IT projects, ensuring alignment with plans and targets. 
-          - Reviewed 50+ Business Requirement Documents (BRDs) to ensure completeness and accuracy before submission to the development team.
+          - Monitored and reported the progress of 100+ IT projects, ensuring alignment with plans and targets. 
+          - Reviewed 100+ Business Requirement Documents (BRDs) to ensure completeness and accuracy before submission to the development team.
 
       - job: "IT Assistant"
         company: "Kebun Seni"
@@ -229,9 +227,9 @@ params:
           content: I worked as a IT Assistant for more than 2 year in Kebun Seni.
         content: |
           - Managed three company websites (kebunseni.com, vonnyratnaindah.com, christianartworks.net), increasing visitor traffic by 45% in one year and improving average session duration.
-          - Collaborated with a three-person in creative and research team to develop engaging marketing content, resulting in a 35% increase in engagement rate on social media and websites.
-          - Executed various digital marketing strategies, including SEO optimization, which boosted organic traffic by 60%, and email marketing campaigns, which increased customer conversions by 20%.
-          - Grew the company's Instagram and TikTok following by 40%, with a 25% rise in average engagement per post.
+          - Collaborated with a creative and research team to develop marketing content, resulting in a 35% increase in engagement rate on social media and websites.
+          - Implemented digital marketing strategies, including SEO, which boosted organic traffic, and email campaigns that increased conversions by 50%.
+          - Grew the company's Instagram followers by 900%, with a 25% rise in average engagement per post.
           - Optimized product listings and visuals on multiple e-commerce platforms, contributing to a 30% increase in online sales within a year.
 
       - job: "IT Intern"
@@ -245,8 +243,8 @@ params:
           url: "https://www.lproject.net/"
         content: |
           - Contributed to the development and maintenance of two official company websites, showcasing over 2,000 artworks from 500 artists across Asia and managing five virtual exhibitions.
-          - Assisted in executing multi-channel marketing campaigns, including email marketing, which increased the open rate by 35% and boosted new customer acquisition by 30%.
-          - Managed and updated 500+ art product listings on e-commerce platforms like Artsy, contributing to a 25% increase in visibility and sales.
+          - Supported the execution of multi-channel marketing campaigns, including email marketing, improving open rates and increasing new customer acquisition.
+          - Managed and updated 500+ art product listings on platforms such as Artsy, improving visibility and supporting sales growth
 
       - job: "IT Intern (Frontend Developer)"
         company: "PT Sarana Mendulang Arta"
@@ -256,7 +254,7 @@ params:
           enable: true
           url: "https://ptmmf.co.id/"
         content: |
-          - Designed and developed a fully responsive website using Laravel, HTML, CSS, and JavaScript, improving loading speed by 50% and enhancing user retention with modern UI/UX.
+          - Designed and developed a fully responsive website using Laravel, HTML, CSS, and JavaScript, improving loading speed and enhancing user retention with modern UI/UX.
           - Updated 15 website interfaces and features for the Merpati Maintenance Facility Information System, optimizing navigation and usability.
 
 
